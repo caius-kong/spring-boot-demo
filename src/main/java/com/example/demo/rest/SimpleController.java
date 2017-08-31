@@ -11,6 +11,6 @@ import org.springframework.web.bind.annotation.RestController;
 public class SimpleController {
     @RequestMapping("")
     public String index(){
-        return "index3";
+        return "index4";
     }
 }
